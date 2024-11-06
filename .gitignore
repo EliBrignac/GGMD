@@ -4,5 +4,10 @@ __pycache__/
 
 *.csv
 *.out
+*.json
 
 !examples/LogP_JTVAE/example.out
+
+visualizations/SC24_JTVAE_round_2
+visualizations/files_to_compress
+visualizations/__MACOSX
